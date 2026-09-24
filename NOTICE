@@ -1,0 +1,21 @@
+Third-party code-component notice
+=================================
+
+The files `vectors/vector-1.ots` through `vectors/vector-4.ots` and the
+corresponding values in `vectors/manifest.json` were mechanically reconstructed
+from Appendix D of `draft-fassbender-scitt-time-anchor-06`, authored by J.
+Fassbender. They are redistributed as IETF Code Components under the Revised
+BSD License described by the IETF Trust Legal Provisions.
+
+Copyright (c) 2026 IETF Trust and the persons identified as authors of the
+code. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, is permitted pursuant to, and subject to the license terms
+contained in, the Revised BSD License set forth in Section 4.c of the IETF
+Trust's Legal Provisions Relating to IETF Documents
+(https://trustee.ietf.org/license-info).
+
+The MIT license in `LICENSE` applies to the independently written
+implementation and repository material, except for the Code Components
+identified above.
